@@ -1,5 +1,5 @@
 import './App.css';
-import PriceCard from './PriceCard';
+import PriceCard from './Pricecard.js'
 
 let data=[
   {
